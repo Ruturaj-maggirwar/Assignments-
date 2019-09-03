@@ -1,2 +1,2 @@
 # Assignments-
-Basic DSA assignments 
+Basic DSA assignments for students 
