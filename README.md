@@ -1,2 +1,2 @@
 # Assignments-
-Basic DSA assignments for students 
+Basic codes for data structure and algorithms in C++ 
